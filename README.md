@@ -15,10 +15,10 @@ You need to install this [extension](https://chrome.google.com/webstore/detail/m
 With the extension installed, you will need to go into the settings to add your custom link, in this case, the added link would be https://morgana.codemagic.app
 
 Once installed, simply follow the following steps:
-##### Step 1
+#### Step 1
 <img src="images/chrome_help1.png" alt="first step" width="400"/>
 
-##### Step 2
+#### Step 2
 <img src="images/chrome_help2.png" alt="second step" width="400"/>
 
 
@@ -27,13 +27,13 @@ You need to install this [extension](https://addons.mozilla.org/pt-BR/firefox/ad
 With the extension installed, you will need to go into the settings to add your custom link, in this case, the added link would be https://morgana.codemagic.app
 
 Once installed, simply follow the following steps:
-##### Step 1
+#### Step 1
 <img src="images/firefox_help1.png" alt="first step" width="400"/>
 
-##### Step 2
+#### Step 2
 <img src="images/firefox_help2.png" alt="second step" width="400"/>
 
-# Dependencies
+# Flutter Dependencies
 - [mobx](https://pub.dev/packages/mobx)
 - [provider](https://pub.dev/packages/provider)
 - [flutter_colorpicker](https://pub.dev/packages/flutter_colorpicker)

@@ -7,6 +7,7 @@
 - Morgana settings change the user interface in real time and save automatically.
 - User can add their favorite websites at home, also can remove and edit them.
 - Morgana uses [FontAwesome](https://fontawesome.com/) icons for user favorites icons
+- Morgana can be installed as a PWA on mobile & desktop.
 
 # How to setup Morgana
 

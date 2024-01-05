@@ -1,7 +1,7 @@
 # Morgana
 [Morgana](https://morgana.codemagic.app/) is a free new tab app made in <b>Flutter</b> by Apollo Daniel
 
-<img src="images/morgana_preview.png" height=600>
+![preview image](images/morgana_preview.png)
 
 # Features
 - Morgana has 3 basic search engines for the search bar that can be changed in the settings.
